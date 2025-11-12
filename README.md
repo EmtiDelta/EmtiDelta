@@ -25,7 +25,9 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
           
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmtiDelta&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-          
 
 
