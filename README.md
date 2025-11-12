@@ -26,8 +26,12 @@
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
 
 <br>
+<br>
+<br>
+
+---
      
-<p align="left">
+<p align="left" style="padding-right:10px;>
   <img src="https://github-readme-stats.vercel.app/api?username=EmtiDelta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmtiDelta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
