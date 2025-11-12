@@ -31,7 +31,7 @@
 
 ---
      
-<p align="left" style="padding-right:10px;>
+<p align="left" style="padding-right:10"px;>
   <img src="https://github-readme-stats.vercel.app/api?username=EmtiDelta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmtiDelta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
